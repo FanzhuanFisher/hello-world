@@ -1,3 +1,2 @@
-# hello-world
-用来练习仓库使用
-分支 2
+#hello this is a hello-world
+这个是GitHub操作的测试，\(￣︶￣*\)
